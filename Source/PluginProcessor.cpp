@@ -126,7 +126,7 @@ double MyPluginAudioProcessor::getTailLengthSeconds() const
 
 //==============================================================================
 void MyPluginAudioProcessor::processBlock(juce::AudioBuffer<float>& buffer,
-    juce::MidiBuffer& midiMessages)
+                                          juce::MidiBuffer& midiMessages)
 {
     buffer.clear();
 
