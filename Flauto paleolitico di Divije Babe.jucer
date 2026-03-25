@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<JUCERPROJECT id="JmHirj" name="Flauto paleolitico di Divije Babe" projectType="audioplug"
+              useAppConfig="1" addUsingNamespaceToJuceHeader="1" jucerFormatVersion="1"
+              version="0.0.1" companyName="AnemosMusic" pluginCharacteristicsValue="pluginEditorRequiresKeys,pluginIsMidiEffectPlugin,pluginIsSynth,pluginProducesMidiOut,pluginWantsMidiIn"
+              pluginManufacturerCode="NINA" pluginCode="FPDB" pluginVST3Category="Sampler,Synth">
+  <MAINGROUP id="Qj9aYZ" name="Flauto paleolitico di Divije Babe">
+    <GROUP id="{6492258A-E1E5-E874-4B9A-00D7A50CF290}" name="Data">
+      <GROUP id="{60CD6396-70A3-E535-CD85-05C5A730C8DB}" name="samples"/>
+    </GROUP>
+    <GROUP id="{E4ECD08C-86E9-6BAF-D5BF-E5664DEA9519}" name="Data">
+      <GROUP id="{4E1264B9-F330-D257-FCBD-3E017E00E70F}" name="samples">
+        <FILE id="QTLpxV" name="426.09Hz_0_1_1_0_0.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/426.09Hz_0_1_1_0_0.wav"/>
+        <FILE id="zi9mS4" name="426.09Hz_1_0_0_0_1.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/426.09Hz_1_0_0_0_1.wav"/>
+        <FILE id="PtGeO7" name="426.09Hz_1_0_0_1_0.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/426.09Hz_1_0_0_1_0.wav"/>
+        <FILE id="peS14p" name="426.09Hz_1_0_1_0_0.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/426.09Hz_1_0_1_0_0.wav"/>
+        <FILE id="qKtBgf" name="426.09Hz_1_0_1_0_1.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/426.09Hz_1_0_1_0_1.wav"/>
+        <FILE id="TIc5ga" name="445.45Hz_0_0_0_0_1.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/445.45Hz_0_0_0_0_1.wav"/>
+        <FILE id="Erb1CN" name="454.64Hz_0_1_1_0_1.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/454.64Hz_0_1_1_0_1.wav"/>
+        <FILE id="aL1aob" name="464.21Hz_0_1_1_1_1.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/464.21Hz_0_1_1_1_1.wav"/>
+        <FILE id="oLQuny" name="466.67Hz_1_1_0_0_0.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/466.67Hz_1_1_0_0_0.wav"/>
+        <FILE id="Fg1Fcx" name="608.28Hz_0_1_0_0_0.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/608.28Hz_0_1_0_0_0.wav"/>
+        <FILE id="Xrsbry" name="634.53Hz_0_0_0_0_0.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/634.53Hz_0_0_0_0_0.wav"/>
+        <FILE id="eVEarn" name="668.18Hz_0_1_1_1_0.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/668.18Hz_0_1_1_1_0.wav"/>
+        <FILE id="wpCyZr" name="864.71Hz_0_0_1_0_1.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/864.71Hz_0_0_1_0_1.wav"/>
+        <FILE id="RzhZF6" name="864.71Hz_0_0_1_1_0.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/864.71Hz_0_0_1_1_0.wav"/>
+        <FILE id="URabTE" name="864.71Hz_0_0_1_1_1.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/864.71Hz_0_0_1_1_1.wav"/>
+        <FILE id="XZQMJp" name="882.00Hz_1_0_0_1_1.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/882.00Hz_1_0_0_1_1.wav"/>
+        <FILE id="ifGMWc" name="890.91Hz_1_0_0_0_0.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/890.91Hz_1_0_0_0_0.wav"/>
+        <FILE id="JedwIl" name="918.75Hz_0_0_0_1_0.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/918.75Hz_0_0_0_1_0.wav"/>
+        <FILE id="rUgzLk" name="918.75Hz_0_0_0_1_1.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/918.75Hz_0_0_0_1_1.wav"/>
+        <FILE id="kmtVtC" name="918.75Hz_0_1_0_0_1.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/918.75Hz_0_1_0_0_1.wav"/>
+        <FILE id="LUw6kU" name="918.75Hz_0_1_0_1_0.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/918.75Hz_0_1_0_1_0.wav"/>
+        <FILE id="Kfikfm" name="918.75Hz_0_1_0_1_1.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/918.75Hz_0_1_0_1_1.wav"/>
+        <FILE id="kyLXw6" name="918.75Hz_1_0_1_1_0.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/918.75Hz_1_0_1_1_0.wav"/>
+        <FILE id="kma7uY" name="918.75Hz_1_0_1_1_1.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/918.75Hz_1_0_1_1_1.wav"/>
+        <FILE id="hD4QvQ" name="918.75Hz_1_1_0_0_1.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/918.75Hz_1_1_0_0_1.wav"/>
+        <FILE id="sI7QYQ" name="918.75Hz_1_1_0_1_0.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/918.75Hz_1_1_0_1_0.wav"/>
+        <FILE id="CsuiOF" name="918.75Hz_1_1_0_1_1.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/918.75Hz_1_1_0_1_1.wav"/>
+        <FILE id="JvFrOb" name="918.75Hz_1_1_1_0_0.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/918.75Hz_1_1_1_0_0.wav"/>
+        <FILE id="u8mdIu" name="918.75Hz_1_1_1_0_1.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/918.75Hz_1_1_1_0_1.wav"/>
+        <FILE id="mOdrTO" name="918.75Hz_1_1_1_1_0.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/918.75Hz_1_1_1_1_0.wav"/>
+        <FILE id="zDbb7z" name="918.75Hz_1_1_1_1_1.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/918.75Hz_1_1_1_1_1.wav"/>
+        <FILE id="MDg9vT" name="958.70Hz_0_0_1_0_0.wav" compile="0" resource="1"
+              file="Builds/VisualStudio2026/x64/Debug/Data/samples/958.70Hz_0_0_1_0_0.wav"/>
+      </GROUP>
+      <FILE id="oSnmJi" name="flauto.jpg" compile="0" resource="1" file="Builds/VisualStudio2026/x64/Debug/Data/flauto.jpg"/>
+    </GROUP>
+    <GROUP id="{6562C609-4944-674D-75FF-9191D7AD8DA0}" name="Source">
+      <FILE id="aY6Ujz" name="PluginProcessor.cpp" compile="1" resource="0"
+            file="Source/PluginProcessor.cpp"/>
+      <FILE id="Vt4ds7" name="PluginProcessor.h" compile="0" resource="0"
+            file="Source/PluginProcessor.h"/>
+      <FILE id="CD9oli" name="PluginEditor.cpp" compile="1" resource="0"
+            file="Source/PluginEditor.cpp"/>
+      <FILE id="Zga34P" name="PluginEditor.h" compile="0" resource="0" file="Source/PluginEditor.h"/>
+    </GROUP>
+  </MAINGROUP>
+  <MODULES>
+    <MODULE id="juce_analytics" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_animation" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_audio_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_audio_devices" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_audio_formats" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_audio_plugin_client" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="0"/>
+    <MODULE id="juce_audio_processors" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_audio_processors_headless" showAllCode="1" useLocalCopy="0"
+            useGlobalPath="0"/>
+    <MODULE id="juce_audio_utils" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_core" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_data_structures" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_gui_extra" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_midi_ci" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+    <MODULE id="juce_opengl" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
+  </MODULES>
+  <JUCEOPTIONS JUCE_STRICT_REFCOUNTEDPOINTER="1" JUCE_VST3_CAN_REPLACE_VST2="0"/>
+  <EXPORTFORMATS>
+    <VS2026 targetFolder="Builds/VisualStudio2026">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug" targetName="Flauto paleolitico di Divije Babe"/>
+        <CONFIGURATION isDebug="0" name="Release" targetName="Flauto paleolitico di Divije Babe"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_analytics" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors_headless" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_basics" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_animation" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_opengl" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_midi_ci" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../JUCE/modules"/>
+      </MODULEPATHS>
+    </VS2026>
+    <XCODE_MAC targetFolder="Builds/MacOSX">
+      <CONFIGURATIONS>
+        <CONFIGURATION isDebug="1" name="Debug"/>
+        <CONFIGURATION isDebug="0" name="Release"/>
+      </CONFIGURATIONS>
+      <MODULEPATHS>
+        <MODULEPATH id="juce_analytics" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_animation" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_basics" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_devices" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_formats" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_plugin_client" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_processors_headless" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_audio_utils" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_core" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_data_structures" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_events" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_graphics" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_basics" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_gui_extra" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_midi_ci" path="../JUCE/modules"/>
+        <MODULEPATH id="juce_opengl" path="../JUCE/modules"/>
+      </MODULEPATHS>
+    </XCODE_MAC>
+  </EXPORTFORMATS>
+</JUCERPROJECT>
