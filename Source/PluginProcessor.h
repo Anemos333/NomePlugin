@@ -26,8 +26,8 @@ public:
     void getStateInformation(juce::MemoryBlock& destData) override;
     void setStateInformation(const void* data, int sizeInBytes) override;
 
-    void MyPluginAudioProcessor::processBlock(juce::AudioBuffer<float>& buffer,
-        juce::MidiBuffer& midiMessages) override;
+    void processBlock(juce::AudioBuffer<float>& buffer,
+                  juce::MidiBuffer& midiMessages) override;
 
     juce::AudioProcessorEditor* createEditor() override;
     bool hasEditor() const override;
