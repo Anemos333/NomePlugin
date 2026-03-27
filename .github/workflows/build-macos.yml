@@ -31,14 +31,16 @@ jobs:
         run: |
           xcodebuild -list -project "Builds/MacOSX/Flauto paleolitico di Divije Babe.xcodeproj"
 
-      - name: Build VST3 only
+      - name: Build universal VST3
         run: |
           set -o pipefail
           xcodebuild \
             -project "Builds/MacOSX/Flauto paleolitico di Divije Babe.xcodeproj" \
             -scheme "Flauto paleolitico di Divije Babe - VST3" \
             -configuration Release \
-            SYMROOT="$GITHUB_WORKSPACE/build" \
+            -destination "generic/platform=macOS" \
+            ARCHS="arm64 x86_64" \
+            ONLY_ACTIVE_ARCH=NO \
             CODE_SIGNING_ALLOWED=NO \
             build | tee xcodebuild.log
 
